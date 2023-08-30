@@ -11,6 +11,7 @@
 玩家触碰到“基地”会获得超级增益
 实现游戏的保存 重载功能
 实现游戏音效：攻击音效 背景音乐等
+使用状态机实现人物交互动作：行走 攻击 站立 死亡 奔跑
 ![image](https://github.com/HelloLeexy/Unity-2D-3D-game/assets/76617194/122c3af3-49b1-465e-82c8-3a0d8e9e6e9e)
 ![image](https://github.com/HelloLeexy/Unity-2D-3D-game/assets/76617194/3e09220d-6819-405f-8534-ec5d065cc938)
 ![image](https://github.com/HelloLeexy/Unity-2D-3D-game/assets/76617194/3db3557a-0dce-4960-b5d9-ef22cd32be3a)
