@@ -1,0 +1,4 @@
+Frorest[[:space:]]Knight[[:space:]]3D/Executable[[:space:]]file/CptAss_Data/sharedassets2.assets.resS filter=lfs diff=lfs merge=lfs -text
+Frorest[[:space:]]Knight[[:space:]]3D/Unity[[:space:]]project/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Frorest[[:space:]]Knight[[:space:]]3D/Unity[[:space:]]project/Library/Artifacts/70/707a27b58a04e039a8c6cf76fc86db7f filter=lfs diff=lfs merge=lfs -text
+Frorest[[:space:]]Knight[[:space:]]3D/Unity[[:space:]]project/Library/PlayerDataCache/Win64/Data/sharedassets2.assets.resS filter=lfs diff=lfs merge=lfs -text
